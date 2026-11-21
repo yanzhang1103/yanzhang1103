@@ -2,7 +2,7 @@
 
 M.S. in Technology Innovation student at the University of Washington's Global Innovation Exchange (GIX), graduating March 2027, with a B.A. in Psychology from UCLA. I work where **user research, product, and AI** meet: I study how people actually behave, then build and evaluate technology around it. Before grad school, I co-founded and ran operations for a tech-enabled auction platform integrated with Taobao and JD.com.
 
-**Open to full-time roles starting spring 2027** in UX research, product, and AI.
+**Open to full-time product management roles starting spring 2027**
 
 **Currently**
 - 🥽 Technical Lead & PoC Product Owner, MultiCare-sponsored capstone: AI smart glasses for hands-free CPR coaching
