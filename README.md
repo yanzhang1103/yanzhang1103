@@ -1,4 +1,3 @@
-# yanzhang1103
 ### Hi, I'm Yan Zhang 👋
 
 M.S. in Technology Innovation student at the University of Washington's Global Innovation Exchange (GIX), graduating March 2027, with a B.A. in Psychology from UCLA. I work where **user research, product, and AI** meet: I study how people actually behave, then build and evaluate technology around it. Before grad school, I co-founded and ran operations for a tech-enabled auction platform integrated with Taobao and JD.com.
