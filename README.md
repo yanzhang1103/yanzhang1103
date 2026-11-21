@@ -16,4 +16,4 @@ M.S. in Technology Innovation student at the University of Washington's Global I
 
 **Toolkit:** Python · C++ · R · scikit-learn · XGBoost · TensorFlow · ESP32 / CircuitPython · LLM evaluation · user interviews & qualitative analysis · Fusion 360
 
-📫 zhangyan_1103@hotmail.com · [LinkedIn](YOUR-LINKEDIN-URL)
+📫 zhangyan_1103@hotmail.com · [LinkedIn](https://www.linkedin.com/in/yanzhang1103/)
